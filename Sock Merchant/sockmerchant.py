@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-# Complete the sockMerchant function below.
+
 def sockMerchant(n, ar):
     c=k=0 
     for i in range (n-1):
