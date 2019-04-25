@@ -5,9 +5,7 @@ import os
 import random
 import re
 import sys
-# 0 0 0 0 1 0 
-# 0 0 1 0 0 1 0         i=1 l=7
-# Complete the jumpingOnClouds function below.
+
 def jumpingOnClouds(c):
     current = 0
     end = len(c) - 1
