@@ -1,6 +1,7 @@
 #!/bin/python3
 
 import math
+#makes the code platform independent
 import os
 import random
 import re
